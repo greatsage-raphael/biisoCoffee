@@ -60,7 +60,7 @@ export default function About() {
                 Our Story
               </h2>
               <p className="font-medium ">
-              Welcome to Biiso General Merchandise, where our love for coffee, culture, and the planet comes together in a harmonious blend of sustainability and quality. Founded in 2019 in the heart of Uganda, we are a passionate team of young entrepreneurs on a mission to transform the coffee industry. As a limited liability company duly registered and incorporated in the Republic of Uganda, Biiso General Merchandise has a mission to become a driving force in meeting the global demand for sustainable, premium coffee and cascara.
+              Welcome to Biiso Coffee, where our love for coffee, culture, and the planet comes together in a harmonious blend of sustainability and quality. Founded in 2019 in the heart of Uganda, we are a passionate team of young entrepreneurs on a mission to transform the coffee industry. As a limited liability company duly registered and incorporated in the Republic of Uganda, Biiso General Merchandise has a mission to become a driving force in meeting the global demand for sustainable, premium coffee and cascara.
               </p>
             </div>
             <div className="relative col-span-3 h-max rounded-2xl border-2 border-solid border-dark 
